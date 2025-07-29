@@ -30,7 +30,7 @@ This project deepened my understanding of:
 - Implementing _conditional UI updates_
 - Managing _user inputs_ and interactions
 - Building apps with real-world logic in mind
-- One of the most important for this is learning Git and GitHup
+- I'm publishing this as a tool to learn Git and GitHup
 
 ## 📁 Folder Structure
 
